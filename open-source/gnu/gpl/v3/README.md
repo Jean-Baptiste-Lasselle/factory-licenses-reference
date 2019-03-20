@@ -3,7 +3,6 @@
 <div class="inner">
 <!-- start of server/body-include-1.html -->
 
-<h2><a href="https://www.gnu.org/licenses/gpl-howto.html">Page de Référence GNU, où ont été trovuées ces informations (lien ajouté par l'usinelogicielle)</a></h2>
 
 
 <!--
@@ -28,79 +27,19 @@
 
 <!-- start of server/body-include-2 -->
 
-<div id="header">
-<div id="fsf-frame">
-<p id="join-fsf"><a href="https://www.fsf.org/associate/support_freedom?referrer=4052">JOIN&nbsp;THE&nbsp;FSF</a></p>
-<div id="fssbox">
-<p><a href="//www.fsf.org/fss">Free Software Supporter</a></p>
-<form action="https://my.fsf.org/civicrm/profile/create?reset=1&amp;gid=31"
- method="post" class="header">
- <div>
-  <input name="postURL" type="hidden" value="" />
-  <input type="hidden" name="group[25]" value="1" />
-  <input name="cancelURL" type="hidden" value="https://crm.fsf.org/civicrm/profile?reset=1&amp;gid=31" />
-  <input name="_qf_default" type="hidden" value="Edit:cancel" />
- </div>
- <p>
-  <input type="text" id="frmEmail" name="email-Primary" size="18" maxlength="80"
-         value="email address" onfocus="this.value=''"/>
-  <input type="submit" name="_qf_Edit_next" value="Sign up" />
- </p>
-</form>
-</div><!-- /fssbox -->
-</div><!-- /fsf-frame -->
 
-<div id="gnu-banner">
- <a href="/">
- <img src="/graphics/heckert_gnu.transp.small.png"
-      alt=" [A GNU head] " /><strong>GNU</strong> Operating System</a>
-
-<p id="fsf-support">Sponsored by the <a href="#mission-statement">Free Software Foundation</a></p>
-</div><!-- /gnu-banner -->
-<div style="clear:both"></div>
-</div><!-- /header -->
-
-<div id="navigation">
- <ul>
-
-
-
-   <li id="tabAboutGNU"><a href="/gnu/gnu.html">ABOUT&nbsp;GNU</a></li>
-
-
-  <li id="tabPhilosophy"><a href="/philosophy/philosophy.html">PHILOSOPHY</a></li>
-
-
-  <li id="tabLicenses" class="active">
-     <span class='no-display'>=</span> 
-    <a href="/licenses/licenses.html">LICENSES</a>
-    <span class="gnun-split"></span>
-     <span class='no-display'>=</span> 
-  </li>
-
-
-  <li id="tabEducation"><a href="/education/education.html">EDUCATION</a></li>
-
-
-  <li id="tabSoftware"><a href="/software/software.html">SOFTWARE</a></li>
-
-
-  <li id="tabDoc"><a href="/doc/doc.html">DOCS</a></li>
-
-
-  <li id="tabHelp"><a href="/help/help.html">HELP&nbsp;GNU</a></li>
-
-  <li id="more-links"><a href="#fsf-links">More &#9660;</a></li>
- </ul>
- <div style="clear:both"></div>
-</div><!--  /navigation -->
-<!-- end of server/body-include-2 -->
 
 
 <div id="content">
 <!-- end of server/banner.html -->
 
-<h2>How to use GNU licenses for your own software</h2>
+<h4><a href="https://www.gnu.org/licenses/gpl-howto.html">Page de Référence GNU, où ont été trouvées ces informations (lien ajouté par l'usine logicielle)</a></h4>
+
+
+
+<h1>How to use GNU licenses for your own software</h1>
+
+
 
 <p>This is a brief explanation of how to place a program under the <a
 href="/licenses/gpl.html">GNU General Public License</a>, <a
