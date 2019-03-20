@@ -1,74 +1,12 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 
-<head>
-<!-- start of server/head-include-1.html -->
-<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-<link rev="made" href="mailto:webmasters@gnu.org" />
-<link rel="icon" type="image/png" href="/graphics/gnu-head-mini.png" />
-<meta name="ICBM" content="42.355469,-71.058627" />
-<meta name="DC.title" content="gnu.org" />
-<link rel="stylesheet" type="text/css" href="/reset.css" media="screen" />
-<link rel="stylesheet" type="text/css" href="/mini.css" media="handheld" />
-<link rel="stylesheet" type="text/css" href="/layout.min.css" media="screen" />
-<link rel="stylesheet" type="text/css" href="/print.min.css" media="print" />
-<!-- end of server/head-include-1.html -->
-
-<!-- end of server/header.html -->
-
-<!-- Parent-Version: 1.86 -->
-<title>How to use GNU licenses for your own software
-- GNU Project - Free Software Foundation</title>
-<!-- begin translist file -->
-
-<link rel="alternate" type="text/html" href="/licenses/gpl-howto.html" hreflang="x-default" />
-<link rel="alternate" type="text/html" lang="en" hreflang="en" href="/licenses/gpl-howto.en.html" title="English" />
-<link rel="alternate" type="text/html" lang="ca" hreflang="ca" href="/licenses/gpl-howto.ca.html" title="català" />
-<link rel="alternate" type="text/html" lang="de" hreflang="de" href="/licenses/gpl-howto.de.html" title="Deutsch" />
-<link rel="alternate" type="text/html" lang="es" hreflang="es" href="/licenses/gpl-howto.es.html" title="español" />
-<link rel="alternate" type="text/html" lang="fr" hreflang="fr" href="/licenses/gpl-howto.fr.html" title="français" />
-<link rel="alternate" type="text/html" lang="it" hreflang="it" href="/licenses/gpl-howto.it.html" title="italiano" />
-<link rel="alternate" type="text/html" lang="ja" hreflang="ja" href="/licenses/gpl-howto.ja.html" title="日本語" />
-<link rel="alternate" type="text/html" lang="pl" hreflang="pl" href="/licenses/gpl-howto.pl.html" title="polski" />
-<link rel="alternate" type="text/html" lang="pt-br" hreflang="pt-br" href="/licenses/gpl-howto.pt-br.html" title="português do Brasil" />
-<link rel="alternate" type="text/html" lang="ru" hreflang="ru" href="/licenses/gpl-howto.ru.html" title="русский" />
-<link rel="alternate" type="text/html" lang="ta" hreflang="ta" href="/licenses/gpl-howto.ta.html" title="தமிழ்" />
-<!-- end translist file -->
-
-<!-- start of server/banner.html -->
-<!-- start of head-include-2.html -->
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<!-- end of head-include-2.html -->
-
-</head>
 <body>
 <div class="inner">
 <!-- start of server/body-include-1.html -->
 
-<h1><a href="https://www.gnu.org/licenses/gpl-howto.html">Page de Référence GNU, où ont été trovuées ces informations (lien ajouté par l'usinelogicielle)</a></h1>
+<h2><a href="https://www.gnu.org/licenses/gpl-howto.html">Page de Référence GNU, où ont été trovuées ces informations (lien ajouté par l'usinelogicielle)</a></h2>
 
 
-
-<div id="toplinks">
- <a href="#content">Skip to main text</a>
- <span class="gnun-split"></span>
- <a href="/server/select-language.html?callback=/licenses/gpl-howto.html" rel="nofollow">
- Set language
- <span class="gnun-split"></span>
- </a>
-</div> <!-- /toplinks -->
-
-<div id="searcher">
- <form method="get" action="//www.gnu.org/cgi-bin/estseek.cgi" class="header">
-  <div>
-  <input name="phrase" id="phrase" type="text" size="18" accesskey="s"
-         value="Why GNU/Linux?" onfocus="this.value=''" />
-  <input type="submit" value="Search" />
-  </div>
- </form>
-</div><!-- /searcher -->
-
+<!--
 <div id="translations">
 <p>
 <span dir="ltr" class="original"><a lang="en" hreflang="en" href="/licenses/gpl-howto.en.html">English</a>&nbsp;[en]</span> &nbsp;
@@ -84,6 +22,7 @@
 <span dir="ltr"><a lang="ta" hreflang="ta" href="/licenses/gpl-howto.ta.html">தமிழ்</a>&nbsp;[ta]</span> &nbsp;
 </p>
 </div>
+-->
 
 <!-- end of server/body-include-1.html -->
 
@@ -406,9 +345,7 @@ everyone.  If you'd like to advertise your use of a particular license,
 feel free to use <a href="/graphics/license-logos.html"
 title="GNU License Logos">one of our logos</a>.</p>
 
-</div><!-- for id="content", starts in the include above -->
-
-              <!-- begin server/footer-text.html -->
+</div>
 <div style="clear:both"></div>
 <div id="back-to-top"><a href="#navigation"><span>TOP</span> &#9650;</a></div>
 
